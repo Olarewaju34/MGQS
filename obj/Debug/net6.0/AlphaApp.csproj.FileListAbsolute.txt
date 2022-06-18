@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\AlphaApp\bin\Debug\net6.0\AlphaApp.exe
+C:\Users\HP\Desktop\AlphaApp\bin\Debug\net6.0\AlphaApp.deps.json
+C:\Users\HP\Desktop\AlphaApp\bin\Debug\net6.0\AlphaApp.runtimeconfig.json
+C:\Users\HP\Desktop\AlphaApp\bin\Debug\net6.0\AlphaApp.dll
+C:\Users\HP\Desktop\AlphaApp\bin\Debug\net6.0\AlphaApp.pdb
+C:\Users\HP\Desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.dll
+C:\Users\HP\Desktop\AlphaApp\obj\Debug\net6.0\refint\AlphaApp.dll
+C:\Users\HP\Desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.pdb
+C:\Users\HP\Desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.genruntimeconfig.cache
+C:\Users\HP\Desktop\AlphaApp\obj\Debug\net6.0\ref\AlphaApp.dll
